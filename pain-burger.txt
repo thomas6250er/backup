@@ -1,1 +1,3 @@
-Ingrédient : Pain Burger
+Nom de l'ingrédient : Pain Burger
+Description : Le pain moelleux qui sert de base a chaque burger.
+Particularité : Peut contenir du gluten.
